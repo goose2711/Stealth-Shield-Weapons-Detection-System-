@@ -1,5 +1,5 @@
-# IAT320---Final-Project-Weapon-Detection-System-
-Final Project for IAT320 - Stealth Shield (A Weapons Detection Software)
+# Weapon-Detection-System-
+Stealth Shield (A Weapons Detection Python Software)
 #(Programmer: Agastya Oruganti)
 #(Designer: Zhaniya Yeltindinova)
 #(Project Manager: Jihoon Lee)
